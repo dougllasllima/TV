@@ -22,7 +22,7 @@ http://pfsv.io:80/diego01/diego02/130229.ts
 http://pfsv.io:80/diego01/diego02/130175.ts
 #EXTINF:0 type="stream" channelId="2572", Arte 1
 http://pfsv.io:80/diego01/diego02/130169.ts
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sabor-and-arte-br.png", Sabor&Arte
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sabor-and-arte-br.png", Sabor & Arte
 http://pfsv.io:80/diego01/diego02/130228.ts
 #EXTINF:0 type="stream" channelId="188" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png", Sony Channel
 http://pfsv.io:80/diego01/diego02/130187.ts
