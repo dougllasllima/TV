@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml , https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/brazil.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 #EXTINF:0 type="stream" channelId="1208" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/a-and-e-br.png", A&E
 http://pfsv.io:80/diego01/diego02/130184.ts
