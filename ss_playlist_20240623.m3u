@@ -184,7 +184,7 @@ http://pfsv.io:80/diego01/diego02/130211.ts
 http://pfsv.io:80/diego01/diego02/130204.ts
 #EXTINF:0 type="stream" channelId="2617" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/woohoo-br.png", Woohoo
 http://pfsv.io:80/diego01/diego02/130227.ts
-#EXTINF:0 type="stream" channelId="2591", Music box brasil
+#EXTINF:0 type="stream" channelId="2591", Music Box Brasil
 http://pfsv.io:80/diego01/diego02/130225.ts
 #EXTINF:0 type="stream" channelId="2596", PREMIERE CLUBES
 http://pfsv.io:80/diego01/diego02/130233.ts
