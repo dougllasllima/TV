@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://esrv.cc:80/xmltv.php?username=Warley2851&password=SmD874q"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dougllasllima/EPG/main/epg.xml"
 #EXTINF:0 type="stream" channelId="1208" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/a-and-e-br.png", A&E
 http://pfsv.io:80/diego01/diego02/130184.ts
 #EXTINF:0 type="stream" channelId="1200", Lifetime
