@@ -14,7 +14,7 @@ http://pfsv.io:80/diego01/diego02/130257.ts
 http://pfsv.io:80/diego01/diego02/130185.ts
 #EXTINF:0 type="stream" channelId="2632" logo="http://p6.vc/WKJ", Film&Arts
 http://pfsv.io:80/diego01/diego02/130189.ts
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/dreamworks%20channel.png", DreamWorks
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/dreamworks-channel-br.png", DreamWorks
 http://cmrt.in:80/elizabeth/elizabeth/2992592
 #EXTINF:0 type="stream" channelId="2573" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png", Band News
 http://pfsv.io:80/diego01/diego02/130229.ts
