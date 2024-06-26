@@ -1,0 +1,319 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
+#EXTINF:0 type="stream" channelId="1208" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/a-and-e-br.png", A&E
+http://pfsv.io:80/diego01/diego02/130184.ts
+#EXTINF:0 type="stream" channelId="1200", Lifetime
+http://pfsv.io:80/diego01/diego02/130191.ts
+#EXTINF:0 type="stream" channelId="1455" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/history-channel-lam.png", History
+http://pfsv.io:80/diego01/diego02/130171.ts
+#EXTINF:0 type="stream" channelId="1201" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/history-channel-2-lam.png", H2
+http://pfsv.io:80/diego01/diego02/130170.ts
+#EXTINF:0 type="stream" channelId="1188" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-entertainment-us.png", E!
+http://pfsv.io:80/diego01/diego02/130257.ts
+#EXTINF:0 type="stream" channelId="2501" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png", AMC
+http://pfsv.io:80/diego01/diego02/130185.ts
+#EXTINF:0 type="stream" channelId="2632" logo="http://p6.vc/WKJ", Film&Arts
+http://pfsv.io:80/diego01/diego02/130189.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/dreamworks%20channel.png", DreamWorks
+http://cmrt.in:80/elizabeth/elizabeth/2992592
+#EXTINF:0 type="stream" channelId="2573" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png", Band News
+http://pfsv.io:80/diego01/diego02/130229.ts
+#EXTINF:0 type="stream" channelId="2574" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png", Band Sports
+http://pfsv.io:80/diego01/diego02/130175.ts
+#EXTINF:0 type="stream" channelId="2572", Arte 1
+http://pfsv.io:80/diego01/diego02/130169.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sabor-and-arte-br.png", Sabor&Arte
+http://pfsv.io:80/diego01/diego02/130228.ts
+#EXTINF:0 type="stream" channelId="188" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png", Sony Channel
+http://pfsv.io:80/diego01/diego02/130187.ts
+#EXTINF:0 type="stream" channelId="1214", Sony Movies
+http://cmrt.in:80/elizabeth/elizabeth/2992595
+#EXTINF:0 type="stream" channelId="1573" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/axn-br.png", AXN
+http://pfsv.io:80/diego01/diego02/130186.ts
+#EXTINF:0 type="stream" channelId="1719", Paramount Network
+http://pfsv.io:80/diego01/diego02/130193.ts
+#EXTINF:0 type="stream" channelId="1190" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png", Comedy Central
+http://pfsv.io:80/diego01/diego02/130254.ts
+#EXTINF:0 type="stream" channelId="1973" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png", MTV
+http://pfsv.io:80/diego01/diego02/130221.ts
+#EXTINF:0 type="stream" channelId="237" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mtv-live-es.png", MTV LIVE
+http://pfsv.io:80/diego01/diego02/130222.ts
+#EXTINF:0 type="stream" channelId="151" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-europe/mtv-00s-eu.png", MTV 00s
+http://pfsv.io:80/diego01/diego02/130223.ts
+#EXTINF:0 type="stream" channelId="41" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/nickelodeon-lam.png", Nickelodeon
+http://pfsv.io:80/diego01/diego02/130218.ts
+#EXTINF:0 type="stream" channelId="322" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Nick_Jr._logo_2023.svg.png", Nick Jr.
+http://pfsv.io:80/diego01/diego02/130219.ts
+#EXTINF:0 type="stream" channelId="2557" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/526px-Warner2018LA.png", Warner Channel
+http://pfsv.io:80/diego01/diego02/130203.ts
+#EXTINF:0 type="stream" channelId="383", Space
+http://pfsv.io:80/diego01/diego02/130194.ts
+#EXTINF:0 type="stream" channelId="1326", Cinemax
+http://pfsv.io:80/diego01/diego02/130188.ts
+#EXTINF:0 type="stream" channelId="1052", TNT
+http://pfsv.io:80/diego01/diego02/130200.ts
+#EXTINF:0 type="stream" channelId="2686", TNT Series
+http://pfsv.io:80/diego01/diego02/130201.ts
+#EXTINF:0 type="stream" channelId="3228" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tnt-novelas-lam.png", TNT Novelas
+http://pfsv.io:80/diego01/diego02/285.ts
+#EXTINF:0 type="stream" channelId="2639" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tooncast-br.png", Tooncast
+http://pfsv.io:80/diego01/diego02/48756.ts
+#EXTINF:0 type="stream" channelId="40" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png", Cartoon Network
+http://pfsv.io:80/diego01/diego02/130213.ts
+#EXTINF:0 type="stream" channelId="321" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cartoonito-lam.png", Cartoonito
+http://pfsv.io:80/diego01/diego02/130212.ts
+#EXTINF:0 type="stream" channelId="2626" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png", Adult Swim
+http://pfsv.io:80/diego01/diego02/199848.ts
+#EXTINF:0 type="stream" channelId="4647", CNN Brasil
+http://pfsv.io:80/diego01/diego02/130230.ts
+#EXTINF:0 type="stream" channelId="57" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png", Discovery Channel
+http://pfsv.io:80/diego01/diego02/130163.ts
+#EXTINF:0 type="stream" channelId="2620" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png", Disc. Home & Health
+http://pfsv.io:80/diego01/diego02/130162.ts
+#EXTINF:0 type="stream" channelId="2586" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/id-investigation-discovery-ar.png", Discovery ID
+http://pfsv.io:80/diego01/diego02/130172.ts
+#EXTINF:0 type="stream" channelId="2505" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png", Discovery Kids
+http://pfsv.io:80/diego01/diego02/130214.ts
+#EXTINF:0 type="stream" channelId="58" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/discovery-science-ca.png", Discovery Science
+http://pfsv.io:80/diego01/diego02/130164.ts
+#EXTINF:0 type="stream" channelId="2558", Discovery Theater
+http://pfsv.io:80/diego01/diego02/130165.ts
+#EXTINF:0 type="stream" channelId="2840" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Discovery_Turbo_logo.svg.png", Discovery Turbo
+http://pfsv.io:80/diego01/diego02/130166.ts
+#EXTINF:0 type="stream" channelId="2839" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-hd-ar.png", Discovery World
+http://pfsv.io:80/diego01/diego02/130167.ts
+#EXTINF:0 type="stream" channelId="50" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/animal-planet-ar.png", Animal Planet
+http://pfsv.io:80/diego01/diego02/130161.ts
+#EXTINF:0 type="stream" channelId="1244" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/food-network-ar.png", Food Network
+http://pfsv.io:80/diego01/diego02/130259.ts
+#EXTINF:0 type="stream" channelId="67" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png", TLC
+http://pfsv.io:80/diego01/diego02/130199.ts
+#EXTINF:0 type="stream" channelId="1418", HGTV
+http://pfsv.io:80/diego01/diego02/130168.ts
+#EXTINF:0 type="stream" channelId="3255", Dog TV
+http://pfsv.io:80/diego01/diego02/130256.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Jovem_Pan_News.png", Jovem Pan News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-distrotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="19", Disney Channel
+http://pfsv.io:80/diego01/diego02/130215.ts
+#EXTINF:0 type="stream" channelId="2749" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/star-channel-lam.png", Star Channel
+http://pfsv.io:80/diego01/diego02/130195.ts
+#EXTINF:0 type="stream" channelId="178" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/cine-canal-lam.png", Cinecanal
+http://pfsv.io:80/diego01/diego02/132945.ts
+#EXTINF:0 type="stream" channelId="1303", FX
+http://pfsv.io:80/diego01/diego02/130190.ts
+#EXTINF:0 type="stream" channelId="56", National Geographic
+http://pfsv.io:80/diego01/diego02/130173.ts
+#EXTINF:0 type="stream" channelId="2578" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png", ESPN
+http://pfsv.io:80/diego01/diego02/130180.ts
+#EXTINF:0 type="stream" channelId="344" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png", ESPN 2
+http://pfsv.io:80/diego01/diego02/130177.ts
+#EXTINF:0 type="stream" channelId="355" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png", ESPN 3
+http://pfsv.io:80/diego01/diego02/130178.ts
+#EXTINF:0 type="stream" channelId="1328" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-4-lam.png", ESPN 4
+http://pfsv.io:80/diego01/diego02/130179.ts
+#EXTINF:0 type="stream" channelId="170" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-5-lam.png", ESPN 5
+http://pfsv.io:80/diego01/diego02/130182.ts
+#EXTINF:0 type="stream" channelId="4657" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-6-lam.png", ESPN 6
+http://pfsv.io:80/diego01/diego02/130181.ts
+#EXTINF:0 type="stream" channelId="2633" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/fish-tv-br.png", Fish TV
+http://pfsv.io:80/diego01/diego02/130258.ts
+#EXTINF:0 type="stream" channelId="2561" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Logotipo_da_GloboNews.png", GloboNews
+http://pfsv.io:80/diego01/diego02/512.ts
+#EXTINF:0 type="stream" channelId="2590" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/multishow-br.png", Multishow
+http://pfsv.io:80/diego01/diego02/130224.ts
+#EXTINF:0 type="stream" channelId="2718", BIS
+http://pfsv.io:80/diego01/diego02/130251.ts
+#EXTINF:0 type="stream" channelId="2576" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-brasil-br.png", Canal Brasil
+http://pfsv.io:80/diego01/diego02/130252.ts
+#EXTINF:0 type="stream" channelId="2581" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Gloob_Logo.png", Gloob
+http://pfsv.io:80/diego01/diego02/130216.ts
+#EXTINF:0 type="stream" channelId="5071", Gloobinho
+http://pfsv.io:80/diego01/diego02/130217.ts
+#EXTINF:0 type="stream" channelId="2582", GNT
+http://pfsv.io:80/diego01/diego02/130260.ts
+#EXTINF:0 type="stream" channelId="2616", Viva
+http://pfsv.io:80/diego01/diego02/130263.ts
+#EXTINF:0 type="stream" channelId="2580" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/modo-viagem-br.png", Modo Viagem
+http://pfsv.io:80/diego01/diego02/103.ts
+#EXTINF:0 type="stream" channelId="2594", OFF
+http://pfsv.io:80/diego01/diego02/130183.ts
+#EXTINF:0 type="stream" channelId="2595", Combate
+http://pfsv.io:80/diego01/diego02/130176.ts
+#EXTINF:0 type="stream" channelId="2599" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png", SporTV
+http://pfsv.io:80/diego01/diego02/130241.ts
+#EXTINF:0 type="stream" channelId="2600" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv2-br.png", SporTV 2
+http://pfsv.io:80/diego01/diego02/130242.ts
+#EXTINF:0 type="stream" channelId="2601" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv3-br.png", SporTV 3
+http://pfsv.io:80/diego01/diego02/130243.ts
+#EXTINF:0 type="stream" channelId="2588" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/megapix-logo-8.png", Megapix
+http://pfsv.io:80/diego01/diego02/130192.ts
+#EXTINF:0 type="stream" channelId="187", Universal Channel
+http://pfsv.io:80/diego01/diego02/130202.ts
+#EXTINF:0 type="stream" channelId="2625", Studio Universal
+http://pfsv.io:80/diego01/diego02/130196.ts
+#EXTINF:0 type="stream" channelId="73" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png", USA Network
+http://pfsv.io:80/diego01/diego02/130197.ts
+#EXTINF:0 type="stream" channelId="2610" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png", Telecine Premium
+http://pfsv.io:80/diego01/diego02/130249.ts
+#EXTINF:0 type="stream" channelId="2603" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-action-br.png", Telecine Action
+http://pfsv.io:80/diego01/diego02/130244.ts
+#EXTINF:0 type="stream" channelId="2611" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png", Telecine Touch
+http://pfsv.io:80/diego01/diego02/130250.ts
+#EXTINF:0 type="stream" channelId="2608" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png", Telecine Pipoca
+http://pfsv.io:80/diego01/diego02/130248.ts
+#EXTINF:0 type="stream" channelId="2605" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png", Telecine Cult
+http://pfsv.io:80/diego01/diego02/130245.ts
+#EXTINF:0 type="stream" channelId="2606" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png", Telecine Fun
+http://pfsv.io:80/diego01/diego02/130247.ts
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://pfsv.io:80/diego01/diego02/130207.ts
+#EXTINF:0 type="stream" channelId="935" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png", HBO 2
+http://pfsv.io:80/diego01/diego02/130205.ts
+#EXTINF:0 type="stream" channelId="2584" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-family-br.png", HBO Family
+http://pfsv.io:80/diego01/diego02/130206.ts
+#EXTINF:0 type="stream" channelId="2725", HBO MUNDI
+http://pfsv.io:80/diego01/diego02/130208.ts
+#EXTINF:0 type="stream" channelId="361", HBO POP
+http://pfsv.io:80/diego01/diego02/130209.ts
+#EXTINF:0 type="stream" channelId="2583" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-signature-br.png", HBO Signature
+http://pfsv.io:80/diego01/diego02/130210.ts
+#EXTINF:0 type="stream" channelId="2587", HBO Xtreme
+http://pfsv.io:80/diego01/diego02/130211.ts
+#EXTINF:0 type="stream" channelId="2585" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-plus-br.png", HBO Plus
+http://pfsv.io:80/diego01/diego02/130204.ts
+#EXTINF:0 type="stream" channelId="2617" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/woohoo-br.png", Woohoo
+http://pfsv.io:80/diego01/diego02/130227.ts
+#EXTINF:0 type="stream" channelId="2591", Music box brasil
+http://pfsv.io:80/diego01/diego02/130225.ts
+#EXTINF:0 type="stream" channelId="2596", PREMIERE CLUBES
+http://pfsv.io:80/diego01/diego02/130233.ts
+#EXTINF:0 type="stream" channelId="2596", PREMIERE 2
+http://pfsv.io:80/diego01/diego02/130234.ts
+#EXTINF:0 type="stream" channelId="2596", PREMIERE 3
+http://pfsv.io:80/diego01/diego02/130235.ts
+#EXTINF:0 type="stream" channelId="2596", PREMIERE 4
+http://pfsv.io:80/diego01/diego02/130236.ts
+#EXTINF:0 type="stream" channelId="2596", PREMIERE 5
+http://pfsv.io:80/diego01/diego02/130237.ts
+#EXTINF:0 type="stream" channelId="2596", PREMIERE 6
+http://pfsv.io:80/diego01/diego02/130238.ts
+#EXTINF:0 type="stream" channelId="2596", PREMIERE 7
+http://pfsv.io:80/diego01/diego02/130239.ts
+#EXTINF:0 type="stream" channelId="721", NASA TV Pub
+http://endpnt.com:8000/nasa-pub.ts
+#EXTINF:0 type="stream" channelId="721", NASA TV Media
+http://endpnt.com:8000/nasa-media.ts
+#EXTINF:0 type="stream" channelId="1333", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0 type="stream" channelId="2035", Love Nature
+https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/sic-pt.png", SIC Portugal
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/FB_IMG_1716167499497.jpg", Movie Sphere
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/images.png", MyTime movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/thumb_BORA-1597857054.png", BORA FILMES
+http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/logo%20en.jpeg", ENTRETENDO
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/logotipokidsmais2-1024x576.png", TV KIDS MAIS
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", URBAN KIDS
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Chaves_1993.png", Chaves (1973)
+http://pfsv.io:80/diego01/diego02/164752.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Chaves_1993.png", Chaves (1974)
+http://pfsv.io:80/diego01/diego02/164753.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Chaves_1993.png", Chaves (1975)
+http://pfsv.io:80/diego01/diego02/164754.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Chaves_1993.png", Chaves (1976)
+http://pfsv.io:80/diego01/diego02/164755.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Chaves_1993.png", Chaves (1977)
+http://pfsv.io:80/diego01/diego02/164756.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Chaves_1993.png", Chaves (1978)
+http://pfsv.io:80/diego01/diego02/164757.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Chaves_1993.png", Chaves (1979)
+http://pfsv.io:80/diego01/diego02/164758.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/chaves-logo-A0E0A6F56E-seeklogo.com.png", Chaves desenho (2006)
+http://pfsv.io:80/diego01/diego02/164751.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/460px-El_Chapul%C3%ADn_Colorado_logo.svg.png", Chapolin (1973)
+http://pfsv.io:80/diego01/diego02/164744.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/460px-El_Chapul%C3%ADn_Colorado_logo.svg.png", Chapolin (1974)
+http://pfsv.io:80/diego01/diego02/164745.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/460px-El_Chapul%C3%ADn_Colorado_logo.svg.png", Chapolin (1975)
+http://pfsv.io:80/diego01/diego02/164746.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/460px-El_Chapul%C3%ADn_Colorado_logo.svg.png", Chapolin (1976)
+http://pfsv.io:80/diego01/diego02/164747.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/460px-El_Chapul%C3%ADn_Colorado_logo.svg.png", Chapolin (1977)
+http://pfsv.io:80/diego01/diego02/164748.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/460px-El_Chapul%C3%ADn_Colorado_logo.svg.png", Chapolin (1978)
+http://pfsv.io:80/diego01/diego02/164749.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/460px-El_Chapul%C3%ADn_Colorado_logo.svg.png", Chapolin (1979)
+http://pfsv.io:80/diego01/diego02/164750.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/AOB4", Mr Bean 24hrs
+http://pfsv.io:80/diego01/diego02/197462.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/images-removebg-preview.png", Mr. Bean: A série Animada 24HRS
+http://pfsv.io:80/diego01/diego02/197463.ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Logo-coco.png", Cocorico 24HRS
+http://pfsv.io:80/diego01/diego02/164773.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABPF", O Mundo do Mickey 24HRS
+http://pfsv.io:80/diego01/diego02/164971.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABTS", Pica Pau 24HRS
+http://pfsv.io:80/diego01/diego02/165058.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABFN", Ben 10 S1 24HRS (2005)
+http://pfsv.io:80/diego01/diego02/164688.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABFN", Ben 10 S2 24HRS (2006)
+http://pfsv.io:80/diego01/diego02/164689.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABFN", Ben 10 S3 24HRS (2006)
+http://pfsv.io:80/diego01/diego02/164690.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABFN", Ben 10 S4 24HRS (2007)
+http://pfsv.io:80/diego01/diego02/164691.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABOF", Kung Fu Panda 24HRS
+http://pfsv.io:80/diego01/diego02/164915.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABES", As Aventuras Do Batman 24 HRS
+http://pfsv.io:80/diego01/diego02/164667.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABOQ", Liga Da Justiça S1 24HRS
+http://pfsv.io:80/diego01/diego02/164925.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABOQ", Liga Da Justiça S2 24HRS
+http://pfsv.io:80/diego01/diego02/164926.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABOO", Liga Da Justiça Sem Limites 24HRS
+http://pfsv.io:80/diego01/diego02/164924.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABYW", Superman: A Série Animada S1 24HRS
+http://pfsv.io:80/diego01/diego02/165192.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABYW", Superman:A Série Animada S2 24HRS
+http://pfsv.io:80/diego01/diego02/165193.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABYW", Superman: A Série Animada S3 24HRS
+http://pfsv.io:80/diego01/diego02/165194.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABMG", Homem Aranha Da Marvel (2017) S1 24HRS
+http://pfsv.io:80/diego01/diego02/164864.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABMG", Homem Aranha Da Marvel S2 (2018) 24HRS
+http://pfsv.io:80/diego01/diego02/164865.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABEZ", As Tartarugas Ninjas S1 (2012) 24HRS
+http://pfsv.io:80/diego01/diego02/164674.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABEN", Animaniacs 24HRS (1993)
+http://pfsv.io:80/diego01/diego02/164662.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABEO", Animaniacs 24HRS (2020)
+http://pfsv.io:80/diego01/diego02/164663.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABDD", 101 Dálmatas 24HRS
+http://pfsv.io:80/diego01/diego02/164626.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABDT", A Pantera Cor de Rosa 24HRS
+http://pfsv.io:80/diego01/diego02/164642.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ACAG", Tom & Jerry Clássico (1940) 24HRS
+http://pfsv.io:80/diego01/diego02/165228.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABEQ", As Aventuras De Tom & Jerry (2006) 24HRS
+http://pfsv.io:80/diego01/diego02/164665.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABQP", O Show De Tom & Jerry (2011) 24HRS
+http://pfsv.io:80/diego01/diego02/164977.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABDX", A turma do Pateta 24HRS
+http://pfsv.io:80/diego01/diego02/164646.ts
+#EXTINF:0 type="stream" channelId="-1", Donald e Mickey 24HRS
+http://pfsv.io:80/diego01/diego02/165246.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABGR", Bob Esponja S1 24HRS
+http://pfsv.io:80/diego01/diego02/164718.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABMI", Hora De Aventura S10 24HRS
+http://pfsv.io:80/diego01/diego02/164875.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABOE", Kick Buttowski 24HRS
+http://pfsv.io:80/diego01/diego02/164914.ts
+#EXTINF:0 type="stream" channelId="-1" logo="http://p6.vc/ABSB", Os Simpsons S32 24HRS
+http://pfsv.io:80/diego01/diego02/165046.ts
