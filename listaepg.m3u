@@ -22,7 +22,7 @@ http://pfsv.io:80/diego01/diego02/130229.ts
 http://pfsv.io:80/diego01/diego02/130175.ts
 #EXTINF:0 type="stream" channelId="2572", Arte 1
 http://pfsv.io:80/diego01/diego02/130169.ts
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sabor-and-arte-br.png", Sabor & Arte HD
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sabor-and-arte-br.png", Sabor & Arte
 http://pfsv.io:80/diego01/diego02/130228.ts
 #EXTINF:0 type="stream" channelId="188" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png", Sony Channel
 http://pfsv.io:80/diego01/diego02/130187.ts
@@ -138,7 +138,7 @@ http://pfsv.io:80/diego01/diego02/130263.ts
 http://pfsv.io:80/diego01/diego02/103.ts
 #EXTINF:0 type="stream" channelId="2594", OFF
 http://pfsv.io:80/diego01/diego02/130183.ts
-#EXTINF:0 type="stream" channelId="2595", Combate HD
+#EXTINF:0 type="stream" channelId="2595", Combate
 http://pfsv.io:80/diego01/diego02/130176.ts
 #EXTINF:0 type="stream" channelId="2599" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png", SporTV
 http://pfsv.io:80/diego01/diego02/130241.ts
