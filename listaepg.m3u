@@ -52,7 +52,7 @@ http://pfsv.io:80/diego01/diego02/130194.ts
 http://pfsv.io:80/diego01/diego02/130188.ts
 #EXTINF:0 type="stream" channelId="1052", TNT
 http://pfsv.io:80/diego01/diego02/130200.ts
-#EXTINF:0 type="stream" channelId="2686", TNT Series
+#EXTINF:0 type="stream" channelId="2686", TNT Séries
 http://pfsv.io:80/diego01/diego02/130201.ts
 #EXTINF:0 type="stream" channelId="3228" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tnt-novelas-lam.png", TNT Novelas
 http://pfsv.io:80/diego01/diego02/285.ts
