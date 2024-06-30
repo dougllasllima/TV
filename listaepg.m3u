@@ -138,7 +138,7 @@ http://pfsv.io:80/diego01/diego02/130263.ts
 http://pfsv.io:80/diego01/diego02/103.ts
 #EXTINF:0 type="stream" channelId="2594", OFF
 http://pfsv.io:80/diego01/diego02/130183.ts
-#EXTINF:0 type="stream" channelId="2595", COMBATE
+#EXTINF:0 type="stream" channelId="2595", Combate
 http://pfsv.io:80/diego01/diego02/130176.ts
 #EXTINF:0 type="stream" channelId="2599" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png", SporTV
 http://pfsv.io:80/diego01/diego02/130241.ts
