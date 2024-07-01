@@ -70,7 +70,7 @@ http://pfsv.io:80/diego01/diego02/130230.ts
 http://pfsv.io:80/diego01/diego02/130163.ts
 #EXTINF:0 type="stream" channelId="2620" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png", Disc. Home & Health
 http://pfsv.io:80/diego01/diego02/130162.ts
-#EXTINF:0 type="stream" channelId="2586" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/id-investigation-discovery-ar.png", Discovery ID
+#EXTINF:0 type="stream" channelId="2586" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/id-investigation-discovery-ar.png", ID
 http://pfsv.io:80/diego01/diego02/130172.ts
 #EXTINF:0 type="stream" channelId="2505" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png", Discovery Kids
 http://pfsv.io:80/diego01/diego02/130214.ts
@@ -138,21 +138,21 @@ http://pfsv.io:80/diego01/diego02/130263.ts
 http://pfsv.io:80/diego01/diego02/103.ts
 #EXTINF:0 type="stream" channelId="2594", OFF
 http://pfsv.io:80/diego01/diego02/130183.ts
-#EXTINF:0 type="stream" channelId="2595", Combate
+#EXTINF:0 type="stream" channelId="2595", Combate HD 
 http://pfsv.io:80/diego01/diego02/130176.ts
 #EXTINF:0 type="stream" channelId="2599" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png", SporTV
 http://pfsv.io:80/diego01/diego02/130241.ts
-#EXTINF:0 type="stream" channelId="2600" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv2-br.png", SporTV 2
+#EXTINF:0 type="stream" channelId="2600" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv2-br.png", SporTV2
 http://pfsv.io:80/diego01/diego02/130242.ts
-#EXTINF:0 type="stream" channelId="2601" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv3-br.png", SporTV 3
+#EXTINF:0 type="stream" channelId="2601" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv3-br.png", SporTV3
 http://pfsv.io:80/diego01/diego02/130243.ts
 #EXTINF:0 type="stream" channelId="2588" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/megapix-logo-8.png", Megapix
 http://pfsv.io:80/diego01/diego02/130192.ts
-#EXTINF:0 type="stream" channelId="187", Universal Channel
+#EXTINF:0 type="stream" channelId="187", Universal TV
 http://pfsv.io:80/diego01/diego02/130202.ts
 #EXTINF:0 type="stream" channelId="2625", Studio Universal
 http://pfsv.io:80/diego01/diego02/130196.ts
-#EXTINF:0 type="stream" channelId="73" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png", USA Network
+#EXTINF:0 type="stream" channelId="73" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png", USA
 http://pfsv.io:80/diego01/diego02/130197.ts
 #EXTINF:0 type="stream" channelId="2610" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png", Telecine Premium
 http://pfsv.io:80/diego01/diego02/130249.ts
@@ -168,7 +168,7 @@ http://pfsv.io:80/diego01/diego02/130245.ts
 http://pfsv.io:80/diego01/diego02/130247.ts
 #EXTINF:0 type="stream" channelId="1330", HBO
 http://pfsv.io:80/diego01/diego02/130207.ts
-#EXTINF:0 type="stream" channelId="935" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png", HBO 2
+#EXTINF:0 type="stream" channelId="935" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png", HBO2
 http://pfsv.io:80/diego01/diego02/130205.ts
 #EXTINF:0 type="stream" channelId="2584" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-family-br.png", HBO Family
 http://pfsv.io:80/diego01/diego02/130206.ts
