@@ -2,7 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="SONY Movies">
     <display-name lang="pt">Sony Movies</display-name>
-    <icon src="https://static.guiadetv.com/channel/KafWZ1jqNM1V1dDq4e3jOfxubV8AD8ODHcp8HzzY.png" />
     <url>http://www.guiadatv.com</url>
   </channel>
   <channel id="CNN Brasil">
