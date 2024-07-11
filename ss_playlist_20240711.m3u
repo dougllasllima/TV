@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
+
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/dougllasllima/Logos/main/Chaves_1993.png", Chaves
+http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8?
