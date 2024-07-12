@@ -1,1 +1,0 @@
-npm run grab -- --channels=C:\Users\202208648436\Downloads\canais.xml
