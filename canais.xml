@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+   <channel site="guiadetv.com" lang="pt" xmltv_id="SONY Movies" site_id="sony-movies">SONY Movies</channel>
+   <channel site="meuguia.tv" lang="pt" xmltv_id="MTV.br" site_id="MTV">MTV</channel>
+  ...
+</channels>
